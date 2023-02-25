@@ -1,5 +1,6 @@
 def upper():
     """Функция которая что то делает"""
+
     str_1 = input().upper()
     return str_1
 
