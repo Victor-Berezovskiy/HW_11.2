@@ -1,4 +1,4 @@
 def upper():
     """Функция кторая принимает на вход строку и возвращает ее со всеми заглавными буквами"""
-    str_ = input().upper()
-    return str_
+    str_1 = input().upper()
+    return str_1
